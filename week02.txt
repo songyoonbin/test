@@ -12,7 +12,7 @@ week02
   git checkout hashcode
   git checkout -
   git branch -M main
-  git remote add origin https://github.com/songyoonbin/test
+  git remote add origin https://github.com/songyoonbin/test.git
   git remote -v
   git push -u origin main
-  git clone https://github.com/songyoonbin/test
+  git clone https://github.com/songyoonbin/test.git .
