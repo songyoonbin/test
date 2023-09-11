@@ -6,6 +6,7 @@ week02
   git add week 01.txt
   git config --global user.email "you@example.com"
   git config --global user.name "Your name"
+  git congig --global --list
   git commit -m "v0"
   git log
   git checkout hashcode
